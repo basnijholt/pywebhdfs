@@ -1,1 +1,1 @@
-include tox.ini requirements.txt test-requirements.txt
+include tox.ini requirements.txt test-requirements.txt LICENSE
